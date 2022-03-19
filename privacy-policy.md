@@ -27,3 +27,10 @@ We strongly advise You to review the Privacy Policy of every site You visit. <br
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services. <br />
 
+## Changes to this Privacy Policy
+We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page. <br />
+We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy. <br />
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. <br />
+
+## Contact Us
+If you have any questions about this Privacy Policy, You can contact us by email: felix22.studios@gmail.com
