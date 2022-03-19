@@ -2,4 +2,4 @@
 This is web application for bookinfo project
 
 # Privacy Policy
-[Click here](privacy-policy.md)
+Click [here](privacy-policy.md)
