@@ -1,5 +1,5 @@
-# Book Info
-Book Info aims to provide a sleek and simple way to search for book and their information. <br />
+# Books Info
+Books Info aims to provide a sleek and simple way to search for book and their information. <br />
 <sub>(Please do comment on playstore about your experience. We will try our best to attend to it.)</sub>
 
 # Description
