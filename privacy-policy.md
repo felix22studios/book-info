@@ -1,9 +1,9 @@
 # Privacy Policy
 Last updated: March 18, 2022 <br />
 ## Intro <br />
-Hello! Welcome to the privacy policy of Book Info mobile app developed by Felix22 Studios. <br />
+Hello! Welcome to the privacy policy of Books Info mobile app developed by Felix22 Studios. <br />
 This Privacy Policy describes Our policies and procedures on the collection, 
-use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You. <br />
+use and disclosure of Your information when you use the service and tells you about your privacy rights and how the law protects you. <br />
 
 ## Collecting and Using Your Personal Data
 ### Types of Data Collected
